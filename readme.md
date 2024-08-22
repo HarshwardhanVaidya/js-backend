@@ -1,5 +1,14 @@
 # javascript backend series 
 
-This is from chai aur code backend with javascript series by Hitesh
+
 
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+
+packages used ->
+
+
+- bcrypt (A library to help you hash passwords.)
+- jsonwebtoken
+- express-fileupload (Simple express middleware for uploading files.)
+- multer
+- npm i cloudinary (to store images on cloud)
