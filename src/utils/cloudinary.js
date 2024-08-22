@@ -1,4 +1,4 @@
-import {v2 as cloudanary} from "cloudinary"
+import {v2 as cloudinary} from "cloudinary"
 import fs from "fs"
 
 

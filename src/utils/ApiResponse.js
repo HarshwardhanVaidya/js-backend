@@ -7,3 +7,5 @@ class ApiResponse{
     // search server statusCode to learn more
   }
 }
+
+export { ApiResponse }
